@@ -5,7 +5,7 @@ up insurance terminology. 57 terms across 6 categories, instant search with matc
 highlighting, related-term navigation, A–Z quick-jump, shareable deep links, and
 a light/dark theme — all client-side, no backend.
 
-**Live demo:** _(deployed via GitHub Pages — see [Deployment](#deployment))_
+**Live demo:** https://sonrio.github.io/insurance-glossary-search/
 
 ![Insurance Glossary — light theme](docs/screenshot-desktop.png)
 ![Insurance Glossary — dark theme](docs/screenshot-dark.png)
